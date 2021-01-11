@@ -1,0 +1,16 @@
+{% extends base %}
+
+{% block contents %}
+<h1>Simple OpenSky Flight Tracker</h1>
+<p>Inspired by my Mom, who always watches over my flights from afar.</p>
+<div style="overflow: hidden;">
+	<div style="float: left; width: 50%;">
+		{{ embed(roots.plane_map) }}
+	</div>
+	<div style="float: left; width: 50%;">
+		{{ embed(roots.textin) }}
+		{{ embed(roots.clear) }}
+		{{ embed(roots.data_table) }}
+	</div>
+</div>
+{% endblock %}

@@ -1,0 +1,13 @@
+index-title: OpenSky Flights
+callback-period: 20000
+map-title: OpenSky Flights
+dropped-columns:
+  - x
+  - y
+  - position_source
+  - onground
+  - icao24
+  - heading_rad
+  - track
+  - last_position
+  - squawk
