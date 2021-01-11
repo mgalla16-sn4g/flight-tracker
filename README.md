@@ -1,4 +1,5 @@
 ## OpenSky Flight Tracker
+![Screenshot](/static/tracker.jpg)
 This is a basic flight tracker app. I put this together mostly for fun and to try out [Bokeh](https://docs.bokeh.org/en/latest/index.html). Secondarily, I had seen several flight tracker tutorials online and none were really what I was looking for. So I put together a live updating tracker for myself that's live here: [https://all-in-one-300017.uc.r.appspot.com/app](https://all-in-one-300017.uc.r.appspot.com/app)
 
 ### Structure
